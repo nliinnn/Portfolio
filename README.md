@@ -1,2 +1,2 @@
 # portfolio
-https://nliinnn.github.io/Portfolio/
+https://nliinnn.github.io/portfolio/
