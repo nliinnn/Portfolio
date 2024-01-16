@@ -199,7 +199,22 @@ body {
     margin-right: 3vw;
 }
 
-.projects a {
+.projects a:link {
+    text-decoration: none;
+    color: rgb(87, 86, 86);
+}
+
+.projects a:visited {
+    text-decoration: none;
+    color: rgb(87, 86, 86);
+}
+
+.projects a:hover {
+    text-decoration: none;
+    color: rgb(87, 86, 86);
+}
+
+.projects a:active {
     text-decoration: none;
     color: rgb(87, 86, 86);
 }
