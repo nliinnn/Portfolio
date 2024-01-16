@@ -18,22 +18,22 @@ html {
     align-items: center;
 }
 
-a:link {
+.icons a, .footer-icons a, .school:link {
     color: rgb(180, 179, 179);
     text-decoration: none;
 }
   
-  a:visited {
+.icons a, .footer-icons a, .school:visited {
     color: rgb(180, 179, 179);
     text-decoration: none;
 }
   
-  a:hover {
+.icons a, .footer-icons a, .school:hover {
     color: rgb(180, 179, 179);
     text-decoration: underline;
 }
   
-  a:active {
+.icons a, .footer-icons a, .school:active {
     color: rgb(180, 179, 179);
     text-decoration: underline;
 }
@@ -197,6 +197,11 @@ body {
     font-weight: 600;
     margin-bottom: 4vh;
     margin-right: 3vw;
+}
+
+.projects a {
+    text-decoration: none;
+    color: rgb(87, 86, 86);
 }
 
 .languages, .os {
